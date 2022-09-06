@@ -8,3 +8,9 @@ function imprimeTexto(texto){
 
 imprimeTexto("oi");
 imprimeTexto("Sou casado com Larissa Katielly");
+
+function soma(){
+    return 2 + 2;
+}
+
+console.log(soma())
