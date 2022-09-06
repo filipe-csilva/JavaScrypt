@@ -1,8 +1,10 @@
 const idadeMinima = 18;
-const idadeCliente = 16;
+const idadeCliente = 18;
 
-if(idade >= idademinima){
-    console.log("Cerveja")
-}else{
-    console.log("suco")
-}
+// if(idade >= idademinima){
+//     console.log("Cerveja")
+// }else{
+//     console.log("suco")
+// }
+
+console.log(idadeCliente >= idadeMinima ? "Cerveja" : "suco")
