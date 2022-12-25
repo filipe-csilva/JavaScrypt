@@ -6,3 +6,7 @@ const cliente = {
 };
 
 console.log (cliente);
+
+console.log ();
+
+console.log(cliente.telefone);
